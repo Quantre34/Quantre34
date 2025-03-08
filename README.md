@@ -7,7 +7,7 @@
         Currently working as a BackEnd Developer.<br>
         Open minded for new projects<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/Quantre34">
+    <a href="https://www.linkedin.com/in/Quantre34](https://www.linkedin.com/in/recep-%C3%B6zmen-34-67anubis">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/Quantre34">
