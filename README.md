@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there 👋 </h1>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -25,8 +24,10 @@
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/Quantre34)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Quantre34)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Quantre34)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Quantre34)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Quantre34)
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/Quantre34)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Quantre34)
-
 
 ### Technologies & Frameworks
 [![JQUERY](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/Quantre34)
@@ -38,6 +39,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Quantre34)
 
 <details>
+<summary>📊 GitHub Stats</summary>
 <p align="center">
   <a href="https://github.com/Quantre34">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantre34&theme=transparent" />
