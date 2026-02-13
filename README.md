@@ -26,13 +26,14 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Quantre34)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Quantre34)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Quantre34)
-[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/Quantre34)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Quantre34)
 
 ### Technologies & Frameworks
 [![JQUERY](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/Quantre34)
 [![LARAVEL](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Quantre34)
 [![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Quantre34)
+[![VUE.JS](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs)](https://github.com/Quantre34)
+
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Quantre34)
