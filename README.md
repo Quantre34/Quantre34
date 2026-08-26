@@ -3,7 +3,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Quantre34<br>
-        Currently working as a BackEnd Developer.<br>
+        Currently working as a Software Developer<br>
         Open minded for new projects<br>
     </i><br>
     <a href="https://www.linkedin.com/in/recep-%C3%B6zmen-34-67anubis">
