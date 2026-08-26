@@ -33,7 +33,7 @@
 [![LARAVEL](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/Quantre34)
 [![BOOTSTRAP](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/Quantre34)
 [![VUE.JS](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs)](https://github.com/Quantre34)
-[![TYPESCRIPT.JS](https://img.shields.io/badge/typescript.js-black?style=for-the-badge&logo=vuedotjs)](https://github.com/Quantre34)
+[![TYPESCRIPT.JS](https://img.shields.io/badge/typescript.js-black?style=for-the-badge&logo=typescript)](https://github.com/Quantre34)
 
 
 ### OS
