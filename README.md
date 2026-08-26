@@ -38,6 +38,7 @@
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Quantre34)
+[![Macos](https://img.shields.io/badge/Macos-black?style=for-the-badge&logo=Macos)](https://github.com/Quantre34)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Quantre34)
 
 <details>
